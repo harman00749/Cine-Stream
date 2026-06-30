@@ -37,7 +37,6 @@ Create a `.env` file in the project root:
 ```env
 VITE_TMDB_API_KEY=your_tmdb_api_key_here
 VITE_GEMINI_API_KEY=optional_gemini_api_key_here
-VITE_OPENAI_API_KEY=optional_openai_api_key_here
 ```
 
 `VITE_TMDB_API_KEY` is required for movie data. Gemini/OpenAI keys are optional because the Mood Matcher includes a local fallback.
