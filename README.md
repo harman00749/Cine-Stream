@@ -41,8 +41,6 @@ VITE_GEMINI_API_KEY=optional_gemini_api_key_here
 
 `VITE_TMDB_API_KEY` is required for movie data. Gemini/OpenAI keys are optional because the Mood Matcher includes a local fallback.
 
-Do not upload `.env` to GitHub. Upload `.env.example` only.
-
 ## Run Locally
 
 Install dependencies:
