@@ -85,7 +85,6 @@ Add these Environment Variables in the Vercel project settings:
 ```env
 VITE_TMDB_API_KEY=your_tmdb_api_key_here
 VITE_GEMINI_API_KEY=optional_gemini_api_key_here
-VITE_OPENAI_API_KEY=optional_openai_api_key_here
 ```
 
 After updating environment variables on Vercel, redeploy the project.
